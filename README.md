@@ -4,7 +4,7 @@
 
 ## 💻 Tecnologías Clave
 
-Agrupa aquí tus herramientas más utilizadas. Puedes mantener todas o eliminar las que no apliquen a tu perfil. También puedes agregar nuevas con el estilo correspondiente. Como recomendación elige los que domines o que estés aprendiendo.
+
 
 ### 🧑‍💻 Lenguajes de Programación
 
