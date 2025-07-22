@@ -1,6 +1,6 @@
 # 👋 Hola, soy Ivana Castillo
 
-¡Hola! 👋🏻 Soy una desarrolladora Full Stack JavaScript Jr, cuento con diversas habilidades técnicas en distintos lenguajes de desarrollo que me gustaría demostrar. Estoy interesada en adquirir nuevos conocimientos y experiencias para seguir creciendo tanto a nivel personal como profesional.
+Soy una desarrolladora Full Stack JavaScript Jr, cuento con diversas habilidades técnicas en distintos lenguajes de desarrollo que me gustaría demostrar. Estoy interesada en adquirir nuevos conocimientos y experiencias para seguir creciendo tanto a nivel personal como profesional.
 
 ## 💻 Tecnologías Clave
 
