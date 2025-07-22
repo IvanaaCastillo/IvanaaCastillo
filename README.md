@@ -27,7 +27,7 @@ Soy una desarrolladora Full Stack JavaScript Jr, cuento con diversas habilidades
 
 ## 🚀 Proyectos Destacados
 
-### 📌 [Calculadora de Pedidos](https://github.com/IvanaaCastillo/ejercicio-calculadora_pedidos)
+### 📌 [Calculadora de Pedidos](https://github.com/IvanaaCastillo/nuevo_ejercicio-calculadora_pedidos)
 
 Aplicación de consola desarrollada en Java que permite calcular el total de un pedido considerando la cantidad de productos, descuentos y validaciones básicas. El programa simula el funcionamiento de una calculadora comercial, enfocándose en la lógica de negocio y estructura orientada a objetos.  
 **Tecnologías:** Java, Jacoco
