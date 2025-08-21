@@ -61,6 +61,7 @@ Plan de prueba diseñado con Apache JMeter para evaluar el rendimiento de una AP
 
 | 📜 Certificado | 🏢 Institución | 📅 Fecha |
 |----------------|----------------|----------|
+| [Fundamentos DevOps](https://eligemejor.sence.cl/PerfilNatural/DescargarCertificado?idCurso=BOTIC-SOFOF-23-30-13-0087&idFederacion=5&rutAsistido=) | Bootcamp / Adalid  | 2025 |
 | [Desarrollo de Aplicaciones Full Stack JavaScript Trainee](https://eligemejor.sence.cl/PerfilNatural/DescargarCertificado?idCurso=BOTIC-SOFOF-23-30-13-0087&idFederacion=5&rutAsistido=) | Bootcamp / Edutecno  | 2024 |
 | [Bases de Git, GitHub](https://cursos.desafiolatam.com/certificates/9gla2vvhag) | Curso / Desafío Latam | 2024 |
 | [Técnicas de Desarrollo en Aplicaciones Full Stack JavaScript](https://eligemejor.sence.cl/PerfilNatural/DescargarCertificado?idCurso=6376778&idFederacion=2&rutAsistido=) | Bootcamp / Generation Chile | 2023 |
