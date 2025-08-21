@@ -34,8 +34,6 @@ Soy una desarrolladora Full Stack JavaScript Jr, cuento con diversas habilidades
 ![Pytest](https://img.shields.io/badge/Pytest-2C2D72?style=for-the-badge&logo=pytest&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 
-**Enfoque QA:** pruebas unitarias, funcionales, end-to-end, carga y automatización de APIs.
-
 ### ☁️ DevOps y Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) 
