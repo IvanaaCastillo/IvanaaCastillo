@@ -19,6 +19,8 @@ Soy una desarrolladora Full Stack JavaScript Jr, cuento con diversas habilidades
 ### 🔨 Desarrollo Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) 
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logoColor=white)
 
 ### 🔧 Bases de Datos
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
@@ -31,7 +33,6 @@ Soy una desarrolladora Full Stack JavaScript Jr, cuento con diversas habilidades
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white) 
 ![Chai](https://img.shields.io/badge/Chai-A30701?style=for-the-badge&logoColor=white) 
 ![Pytest](https://img.shields.io/badge/Pytest-2C2D72?style=for-the-badge&logo=pytest&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 
 ### ☁️ DevOps y Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
@@ -39,6 +40,11 @@ Soy una desarrolladora Full Stack JavaScript Jr, cuento con diversas habilidades
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) 
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 
+### 🖥️ Sistemas y Herramientas
+![Linux](https://img.shields.io/badge/Linux-BD2323?style=for-the-badge&logo=linux&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## 🚀 Proyectos Destacados
 
